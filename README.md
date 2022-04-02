@@ -17,7 +17,7 @@
 </br>
 
 
-## ✏️Languages and Tools
+## ✏️ Languages and Tools
 
 Property                 | Data  
 -------------------------|------
