@@ -8,7 +8,7 @@
 </br>
 <h2 align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://cutt.ly/benjaminportfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://cutt.ly/portfoliobenjamin)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github)](https://github.com/B3njaminV)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/benjamin-valleix)
 
