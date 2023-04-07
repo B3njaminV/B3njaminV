@@ -20,7 +20,7 @@
 
 </h2>
 
----
+<br>
 
 ## ✏️ Languages and Tools
 ## OS
