@@ -22,9 +22,6 @@
 
 ---
 
-
-</br>
-
 ## ✏️ Languages and Tools
 ## OS
 
