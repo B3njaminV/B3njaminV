@@ -49,7 +49,7 @@
 
 ## Languages
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,kotlin,swift,c,cs,cpp,java,ruby,arduino&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,kotlin,swift,c,cs,cpp,java,python,ruby,arduino&theme=dark)
 
 ## Frameworks & Libraries
 
@@ -62,4 +62,4 @@
 
 ## Platforms / Interface
 
-![skills](https://skillicons.dev/icons?i=github,git,gitlab,heroku,nodejs&theme=dark)
+![skills](https://skillicons.dev/icons?i=git,github,gitlab,heroku,nodejs&theme=dark)
