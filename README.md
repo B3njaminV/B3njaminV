@@ -3,7 +3,7 @@
 
 ## 📍 About ME
 
-- 💻 I'm 20 years and I'm passionate about **software/mobile and web application** development
+- 💻 I'm 21 years and I'm passionate about **software/mobile and web application** development
 
 - 🌱 I’m currently learning **mobile development**
 
