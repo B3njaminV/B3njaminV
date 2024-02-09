@@ -1,11 +1,15 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=b3njaminv&label=Profile%20views&color=0e75b6&style=flat" alt="b3njaminv" /> </p>
-<h1 align="center">Hello 👋, I'm Benjamin</h1>
+<img src="./icon/banner_benj_github.png">
+
+<br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=75AED0&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello+👋%2C+I'm+Benjamin)](https://git.io/typing-svg)
 
 ## 📍 About ME
 
 - 💻 I'm 21 years and I'm passionate about **software/mobile and web application** development
 
-- 🌱 I’m currently learning **mobile development**
+- 🌱 Currently I'm in a master's degree in computer science, in the field of software architecture.
 
 - 📫 You can contact me at **benjamin.valleix@gmail.com**
 
@@ -14,10 +18,9 @@
 
 <h2 align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://cutt.ly/portfoliobenjamin)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github)](https://github.com/B3njaminV)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/benjamin-valleix)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Valleix-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-valleix/)](https://www.linkedin.com/in/benjamin-valleix/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-75AED0?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://b3njaminv.github.io/html-portfolio-app/index.html)](https://b3njaminv.github.io/html-portfolio-app/index.html)
+[![Discord Badge](https://img.shields.io/badge/-b3njamin-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com/)
 </h2>
 
 ## ✏️ Languages and Tools
