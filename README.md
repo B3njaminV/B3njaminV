@@ -2,8 +2,12 @@
 
 <br>
 
+<h2 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=75AED0&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello+👋%2C+I'm+Benjamin)](https://git.io/typing-svg)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=b3njaminv&label=Profile%20views&color=0e75b6&style=flat" alt="b3njaminv" /> </p>
+
+</h2>
 
 ## 📍 About ME
 
