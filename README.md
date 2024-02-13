@@ -1,5 +1,5 @@
 <p> 
-    <img src="./icon/banner_benj_github.png">
+    <img src="./icon/banner_benj_github2.png">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=75AED0&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello+👋%2C+I'm+Benjamin" alt="Typing SVG" />
