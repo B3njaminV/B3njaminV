@@ -7,9 +7,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/JeremyTremblay2?tab=repositories&sort=stargazers">
+  <a href="https://github.com/B3njaminV?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/b3njaminv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/JeremyTremblay2?tab=followers">
+  <a href="https://github.com/B3njaminV?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/b3njaminv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="#">
     <img alt="followers" title="Total number of views for my profile" src="https://komarev.com/ghpvc/?username=b3njaminv&style=for-the-badge&logo=person-add"/></a>
@@ -17,8 +17,8 @@
 
 <h2>🚀 About Me <img align="right" alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/b3njaminv/b3njaminv?logo=eye&style=social&logoColor=black&color=orange"></h2>
 
-* 💻 I'm 21 years and I'm passionate about **software/mobile and web application** development.
-* 💼 Currently I'm in a master's degree in computer science, in the field of software architecture.
+* 💻 I'm 22 years and I'm passionate about **software/mobile and web application** development.
+* 💼 Currently I am in the second year of a master's degree in computer science, in the field of software architecture.
 * 📫 You can contact me at **benjamin.valleix@gmail.com**
 * 🔗 Other links :
 
@@ -64,7 +64,7 @@
     <img src="./icon/ide/vscode.png" width="55px" height="55px">
     <img src="./icon/ide/vs.png" width="55px" height="55px">
     <img src="./icon/ide/astudio.png" width="55px" height="55px">
-	  <img src="./icon/ide/xcode.png" width="55px" height="55px">
+	<img src="./icon/ide/xcode.png" width="55px" height="55px">
     <img src="./icon/ide/fleet.png" width="55px" height="55px">
     <img src="./icon/ide/eclipse.svg" width="55px" height="55px">
     <img src="./icon/ide/jupyter.png" width="50px" height="55px">
@@ -73,12 +73,11 @@
 
 ## Languages
 
-![skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,php,kotlin,swift,java,python,ruby,latex,&theme=dark)
+![skills](https://skillicons.dev/icons?i=java,cs,cpp,c,html,css,js,php,kotlin,swift,python,latex,&theme=dark)
 
 ## Frameworks & Libraries
 
-![skills](https://skillicons.dev/icons?i=dotnet,bootstrap,react,arduino,flutter&theme=dark)
-
+![skills](https://skillicons.dev/icons?i=dotnet,react,flutter,spring,arduino,bootstrap&theme=dark)
 
 ## DataBase
 
