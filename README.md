@@ -15,8 +15,8 @@
 
 <h2>🚀 About Me <img align="right" alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/b3njaminv/b3njaminv?logo=eye&style=social&logoColor=black&color=orange"></h2>
 
-* 💻 I'm 22 years and I'm passionate about **software/mobile and web application** development.
-* 💼 Currently I am in the second year of a master's degree in computer science, in the field of software architecture.
+* 💻 I'm 23 years and I'm passionate about **software/mobile and web application** development.
+* 💼 I am currently working at Sopra Steria as a Computer Engineer.
 * 📫 You can contact me at **benjamin.valleix@gmail.com**
 * 🔗 Other links :
 
@@ -33,10 +33,6 @@
 
 ### 🧮 Global stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b3njaminv&layout=compact&langs_count=6&size_weight=0&theme=transparent&count_weight=0.9&hide=jupyter%20notebook,html,css,dockerfile,hack)
-
-### 🏆 Trophies
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=b3njaminv&theme=onedark&row=1&margin-w=22&no-bg=true)
 
 ## ✏️ Languages and Tools
 ## OS
